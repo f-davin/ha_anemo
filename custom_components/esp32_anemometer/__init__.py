@@ -1,3 +1,5 @@
+"""The ESP32 Anemometer custom component."""
+
 from homeassistant import core
 
 

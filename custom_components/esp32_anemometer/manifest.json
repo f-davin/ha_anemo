@@ -4,7 +4,7 @@
   "bluetooth": [
     {
       "connectable": false,
-      "manufacturer_id": 13
+      "manufacturer_id": 741
     }
   ],
   "codeowners": ["@f-davin"],
