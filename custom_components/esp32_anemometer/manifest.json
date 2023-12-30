@@ -4,7 +4,13 @@
   "bluetooth": [
     {
       "connectable": false,
-      "manufacturer_id": 741
+      "manufacturer_id": 741,
+      "service_data_uuid": "181A"
+    },
+    {
+      "connectable": false,
+      "manufacturer_id": 741,
+      "service_data_uuid": "2eaa64c4-8e62-4e2c-a584-b12e73816519"
     }
   ],
   "codeowners": ["@f-davin"],
